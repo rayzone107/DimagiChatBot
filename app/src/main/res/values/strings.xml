@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DimagiChatBot</string>
+    <string name="enter_command">Enter Command</string>
+    <string name="input_not_recognized">Hey buddy, I\'m not smart enough to answer that. Why don\'t you type help and see what magic I can actually perform.</string>
+    <string name="hi_message">Hi Buddy, nice to meet you. Type \"Help\" if you want to know all that I can do.</string>
+    <string name="help_message">Here is a list of all the commands I know.\n
+        \n• Time - I\'ll tell you the current date and time
+        \n• History - I\'ll list down your last 5 inputs
+        \n• Clear - I\'ll clear the history for you
+        \n• Open [URL] - I\'ll open the URL in the browser
+        \n• Play [URL] - I\'ll play the YouTube video
+        \n• MySongIs [URL] - I\'ll store your favourite song and you can play it anytime
+        \n• Play / PlayMySong - I\'ll play your favourite song
+        \n• SaveNote [Booklet] [Note] - Store a note to a booklet
+        \n• FetchNotes [Booklet] - Fetch all notes from specific Booklet
+        \n• FetchAllNotes - Fetch all booklets and their first notes</string>
+    <string name="forgot_url_message">You forget to provide a URL.</string>
+    <string name="invalid_url">Invalid URL - </string>
+    <string name="saved_fav_song_message">I\'ve saved your favourite song. You can open it anytime by typing Play or PlayMySong.</string>
+    <string name="no_fav_song">You haven\'t stored any favourite song yet. Store it by typing MySongIs [URL]</string>
+    <string name="playing_fav_song">Playing Favourite Song - </string>
+    <string name="empty_message">Looks like you\'re new here. Or wait, did you just clear your history? Anyhow, feel free to send me a \'Help\' message, and I\'ll tell you all that I can do.</string>
+    <string name="opening_url">Opening URL - </string>
+</resources>
